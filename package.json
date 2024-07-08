@@ -1,0 +1,8 @@
+{
+  "name": "MMM-HeadlineMarquee",
+  "version": "1.0.0",
+  "description": "A MagicMirror module to display headlines in a marquee",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
